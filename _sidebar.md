@@ -1,6 +1,7 @@
 - 热土VPN
   - [欢迎](guide.md)
   - [隐私条款](privacy.md)
+  - [使用条款](terms.md)
 
   - macOS客户端
     - [安装](/macOS/)
