@@ -2,6 +2,7 @@
   - [欢迎](guide.md)
   - [隐私条款](privacy.md)
   - [使用条款](terms.md)
+  - [客户端下载](client.md)
 
   - macOS客户端
     - [安装](/macOS/)
