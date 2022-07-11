@@ -1,31 +1,32 @@
-## 隐私政策
+## Privacy Policy
 
-隐私和数据保护对**蚯蚓加速器**非常重要。
-我们尽全力避免法律专业词汇，简单的解释我们收集的信息，我们使用它的目的，以及与他人共享它的几种情况。
+Privacy and data protection are important to the **Qiuyin VPN**.
+We’ve done our best to cut through the legal jargon and explain in simple terms what information we collect about you,
+what we use it for, and the few situations in which we share it with others.
 
-请仔细阅读本隐私政策。 它适用于您与**蚯蚓加速器**app进行的所有互动。
+Please read this privacy policy carefully. It applies to all interactions you have with **Qiuyin VPN**.
 
-### 关于信息收集
+## Information we collect
 
-**蚯蚓加速器**收集匿名统计信息，例如崩溃报告和功能使用情况。
-这些用于跟踪应用运行状况并计划未来功能。
+**Qiuyin VPN** collects anonymous statistics such as crash reports and feature usage.
+These are used to track app health and plan future features.
 
-### 数据分析
+## Analytics
 
-**蚯蚓加速器**收集汇总的匿名统计信息（例如使用特定功能的用户所占的百分比）来改善我们的应用程序。
+**Qiuyin VPN** collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
 
-### 信息使用
+## Information usage
 
-- 我们使用收集到的信息来操作和改善我们的网站，应用程序和客户支持。
-- 除完成**蚯蚓加速器**功能所必需的程度外，我们不会与外部人士共享个人信息。
-- 我们可能会与外界共享匿名的汇总统计信息。
-- 如果用户出现违反中国有关法律或者网站政策的情况，我们可能会根据传票，法院命令或其他法律要求披露您的信息；
-  行使我们的合法权利或抗辩法律主张；
-  调查，预防或对非法活动，涉嫌欺诈或滥用，违反我们政策的行为采取行动；
-  或保护我们的权利和财产。
-- 将来，我们可能会出售，购买，合并或与其他企业合作。
-- 在此类交易中，用户信息可能在转移的资产中。
+- We use the information we collect to operate and improve our website, apps, and customer support.
+- We do not share personal information with outside parties except to the extent necessary to accomplish **Qiuyin VPN**’s functionality.
+- We may share anonymous, aggregate statistics with outside parties.
+- If the user violates relevant Chinese laws or policies, we may disclose your information in response to subpoenas, court orders, or other legal requirements;
+to exercise our legal rights or defend against legal claims;
+to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies;
+or to protect our rights and property.
+- In the future, we may sell to, buy, merge with, or partner with other businesses.
+- In such transactions, user information may be among the transferred assets.
 
-### 联络我们
+## Contacting Us
 
-如果您对此隐私政策有疑问，可以给我们发电子邮件[hotlandvpn@gmail.com](hotlandvpn@gmail.com).
+If you have questions regarding this privacy policy, you may e-mail me at [hotlandvpn@gmail.com](mailto:hotlandvpn@gmail.com).

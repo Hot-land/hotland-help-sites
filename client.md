@@ -1,17 +1,17 @@
-# 客户端下载
+# Download Client
 
-我们提供了 Android，macOS 和 Windows 的客户端，iOS平台尚在开发中。
+We provide the Client for Android, macOS and Windows platforms. And the iOS client will come soon.
 
 ## Android v0.16.1
 - [Google play](https://play.google.com/store/apps/details?id=com.hotland.vpn)
-- [APK下载](https://qiuyin.oss-ap-southeast-1.aliyuncs.com/android-apk/0.16.1/app-release.apk)
+- [APK File](https://qiuyin.oss-ap-southeast-1.aliyuncs.com/android-apk/0.16.1/app-release.apk)
 
 ## iOS
 - TBD
 
 ## macOS v0.2
-- [DMG下载]()
+- [DMG]()
 
 ## Windows
-- [MSI下载]()
+- [MSI]()
 

@@ -1,17 +1,17 @@
-- 热土VPN
-  - [欢迎](guide.md)
-  - [隐私条款](privacy.md)
-  - [使用条款](terms.md)
-  - [客户端下载](client.md)
+- Qiuyin VPN
+  - [Guide](guide.md)
+  - [Privacy](privacy.md)
+  - [Terms](terms.md)
+  - [Download Client](client.md)
 
-  - macOS客户端
-    - [安装](/macOS/)
-    - [常见问题](/macOS/problems.md)
+  - macOS
+    - [Installation](/macOS/)
+    - [FAQ](/macOS/problems.md)
 
-  - Android客户端
-    - [安装](/Android/)
-    - [常见问题](/Android/problems.md)
+  - Android
+    - [Installation](/Android/)
+    - [FAQ](/Android/problems.md)
 
-  - Windows客户端
-    - [安装](/Windows/)
-    - [常见问题](/Windows/problems.md)
+  - Windows
+    - [Installation](/Windows/)
+    - [FAQ](/Windows/problems.md)

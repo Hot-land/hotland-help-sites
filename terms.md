@@ -1,37 +1,40 @@
-## 使用条款
+## TERMS OF USE
 
-这些使用条款（“条款”）适用于您在Adnroid设备上使用**蚯蚓加速器**app。
-请仔细阅读这些条款； 使用**蚯蚓加速器**，即表示您同意受其约束。
+These Terms of Use (“Terms”) apply to your use of **Qiuyin VPN** for Android devices.
+Please read these Terms carefully; by using **Qiuyin VPN**, you agree to be bound by them.
 
-## 公司声明
-**蚯蚓加速器** 是 Hotland LLC 的旗下产品及注册商标，下文中提及 **蚯蚓加速器** 处对 Hotland LLC 具有同等效应。 
+## Company statement
+**Qiuyin VPN** is a product and registered trademark of Hotland LLC, and **Qiuyin VPN** mentioned below has the same effect on Hotland LLC.
 
-## 服务内容
-**蚯蚓加速器** 具体服务内容由 **蚯蚓加速器** 根据实际情况提供，包括但不限于：
 
-1. 网络代理服务
+## Service Content
+The specific service content is provided by **Qiuyin VPN** according to the actual situation, including but not limited to:
 
-## 服务的终止
-在下列情况下， **蚯蚓加速器** 有权终止向用户提供服务：
+1. Network proxy service
 
-1. 用户违反本服务协议相关规定
-2. 用户不得通过 **蚯蚓加速器** 服务传播违反本协议规定的内容，一经发现， **蚯蚓加速器** 有权终止对用户的服务
-3. 本服务条款终止或更新时，用户明确表示不愿接受新的服务条款
-4. 其它 **蚯蚓加速器** 认为需终止服务的情况
-服务终止后， **蚯蚓加速器** 没有义务为用户保留的任何信息。 
+## Termination of service
+Under the following circumstances, **Qiuyin VPN** has the right to terminate the provision of services to users:
 
-## 服务的变更、中断
-**蚯蚓加速器** 需要定期或不定期地对提供网络服务的平台进行检测或者更新，造成网络服务在合理时间内的中断，**蚯蚓加速器** 有义务进行提前通知，除此之外 **蚯蚓加速器** 无需为此承担任何责任。 
+1. The user violates the relevant provisions of this service agreement.
+2. Users shall not spread content that violates the provisions of this agreement through the **Qiuyin VPN** service. Once discovered, **Qiuyin VPN** has the right to terminate the service to users.
+3. When the terms of service are terminated or updated, the user clearly expresses his unwillingness to accept the new terms of service.
+4. Other situations where **Qiuyin VPN** thinks the service needs to be terminated.
 
-## 服务条款修改
-**蚯蚓加速器** 有权随时修改本服务条款的任何内容， 一旦本服务条款的任何内容发生变动， **蚯蚓加速器** 将会通过适当方式向用户提示修改内容。 
+After the service is terminated, **Qiuyin VPN** is not obliged to keep any information for users. 
 
-如果不同意 **蚯蚓加速器** 对本服务条款所做的更新及改动，用户有权停止使用 **蚯蚓加速器” 服务。 
-如果用户继续使用网络服务，则视为用户接受 **蚯蚓加速器** 对本服务条款所做的修改。 
+## Service changes and interruptions
+**Qiuyin VPN** It is necessary to periodically or irregularly check or update the platform that provides network services, which will cause the network service to be interrupted within a reasonable period of time.
+**Qiuyin VPN** is obliged to notify, otherwise **Qiuyin VPN** has no responsibility for this. 
 
-## 联络我们
-本协议最终解释权归 **蚯蚓加速器** 所有，并且保留一切解释和修改的权力。 
-**蚯蚓加速器** 郑重提醒用户注意本协议中免除 **蚯蚓加速器** 责任和限制用户权利的条款，请用户仔细阅读，自主考虑风险。
-未成年人应在法定监护人的陪同下阅读本协议。
+If you do not agree with the updates and changes made by **Qiuyin VPN** to these terms of service, the user has the right to stop using the **Qiuyin VPN** service. 
 
-如果您对此条款有疑问，可以给我我们发送电子邮件[hotlandvpn@gmail.com](hotlandvpn@gmail.com)。
+If the user continues to use the network service, it shall be deemed that the user has accepted the modification made by **Qiuyin VPN** to these terms of service.
+
+## Contacting Us
+The final interpretation right of this agreement belongs to **Qiuyin VPN**, and all interpretation and modification rights are reserved.
+
+**Qiuyin VPN** solemnly remind users to pay attention to the clauses in this agreement that exempt **Qiuyin VPN** responsibility and limit user rights, please read carefully and consider the risks independently.
+
+Minors should read this agreement accompanied by a legal guardian.
+
+If you have questions regarding this terms, you may e-mail me at [hotlandvpn@gmail.com](mailto:hotlandvpn@gmail.com).

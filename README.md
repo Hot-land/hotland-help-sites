@@ -1,11 +1,11 @@
-# 热土VPN
+# Qiuyin VPN
 
-热土VPN是兼容常用协议的，提供了一站式服务的VPN软件。
+Qiuyin VPN is an easy to use VPN app.
 
-## 环境
-- macOS 10.15 以上
-- Android 5.0 以上
-- Windows 7 以上
+## Platforms
+- macOS 10.15 later
+- Android 5.0 later
+- Windows 7 later
 
-## 付款方式
-- 支付宝
+## Payment
+- Alipay

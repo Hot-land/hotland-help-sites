@@ -1,1 +1,1 @@
-# 安装 macOS 客户端
+# Installation
